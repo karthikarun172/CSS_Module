@@ -1,0 +1,8 @@
+/** @format */
+
+.box {
+  height: 100px;
+  width: 200px;
+  background-color: brown;
+  border-radius: 20;
+}
